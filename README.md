@@ -1,4 +1,4 @@
-# Extensive-Usenet-Indexer-List
+# Extensive-Usenet-Indexer-Table
 Extensive Usenet Indexer Table with registration status, membership types, API hits, download hits, membership duration, membership prices and payment methods. <br><br>
 (The tables may not be fully visible because of the amount of columns.<br>
 By clicking on a table you will be able to move the table left and right by using the arrow keys <kbd>←</kbd>, <kbd>→</kbd>.)
@@ -10,7 +10,7 @@ By clicking on a table you will be able to move the table left and right by usin
 
 ## Moderated Indexers <br>
 Best kind of indexer. They offer API access, which makes automation with tools like Sonarr, and Radarr possible and NZBs can be directly sent to your download manager. They index obfuscated NZBs with release names and passwords.
-| Indexer 	| Registration 	| Membership 	| API / Day 	| NZB / Day 	| Membership duration 	| Price (2024-04-30) 	| Paymentmethods 	| Accepted cryptocurrencys 	| Primary content 	|
+| Indexer 	| Registration status	| Memberships 	| API/Day 	| NZB/Day 	| Membership duration 	| Price (2024-04-30) 	| Paymentmethods 	| Accepted cryptocurrencys 	| Primary content 	|
 |---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
 | **altHUB.co.za** 	| Open 	| Trial 	| 1000 	| 100 	| 14 days 	| Trial 	| PayPal - CoinPayments 	| XMR BTC 	| EN 	|
 |  	|  	| Free 	| 100 	| 25 	| Lifetime 	| Free 	|  	| LTC BCH 	|  	|
@@ -35,7 +35,7 @@ Best kind of indexer. They offer API access, which makes automation with tools l
 |  	|  	| VIP 	|  	| Unlimited 	| 1 year 	| $17 	|  	|  	|  	|
 |  	|  	| VIP Supporter 	|  	| Unlimited 	|  	| $25 	|  	|  	|  	|
 | **headphones.codeshy.com** 	| Open 	| ? 	| ? 	| ? 	| ? 	| $3.78 / month 	| PayPal 	|  	| Music 	|
-| **Miatrix.com** 	| Open 	| Trial 	| 2 	| 2 	| Undefined 	| Trial 	| PayPal 	| None 	| EN 	|
+| **Miatrix .com** 	| Open 	| Trial 	| 2 	| 2 	| Undefined 	| Trial 	| PayPal 	| None 	| EN 	|
 |  	|  	| Member 	| 400 	| 100 	| 1 year 	| $10 	|  	|  	|  	|
 |  	|  	| Vip 	| 1000 	| 250 	| 1 year 	| $20 	|  	|  	|  	|
 |  	|  	| Lifetime 	| 2000 	| 500 	| Lifetime 	| $50 	|  	|  	|  	|
@@ -55,7 +55,7 @@ Best kind of indexer. They offer API access, which makes automation with tools l
 | **nzbcore.info** 	| Invite 	| Free User 	| 50 	| 10 	| Lifetime 	| Free 	| NOWPayments 	| BTC LTC 	| DE 	|
 |  	|  	| 6 month Member 	| 5000 	| 500 	| 6 month 	| 20 € 	|  	|  	|  	|
 |  	|  	| 1 year Member 	| 10000 	| 1000 	| 1 year 	| 40 € 	|  	|  	|  	|
-| **NZBs.in** 	| Invite 	| User 	| 48 	| 5 	| Lifetime (until 30 day no login) 	| Free 	| CoinPayments 	| BTC 	| EN 	|
+| **NZBs*** 	| Invite 	| User 	| 48 	| 5 	| Lifetime (until 30 day no login) 	| Free 	| CoinPayments 	| BTC 	| EN 	|
 |  	|  	| Friend 	| 1000 	| 1000 	| Lifetime 	| $10 	|  	|  	|  	|
 | **NZB.su** 	| Open 	| Free 	| 0 	| 0 	|  	| Free 	| Stripe - Plisio 	| LTC DOGE 	| EN 	|
 |  	|  	| VIP 	| 5000 	| 600 	| 1/2/3 years 	| $16/$31/$42 	|  	| BTC ETH 	|  	|
@@ -73,7 +73,7 @@ Best kind of indexer. They offer API access, which makes automation with tools l
 |  	|  	| Platinum 	| 20000 	| Unlimited 	| 1 year 	| 15£ 	|  	| DOGE 	|  	|
 |  	|  	| LULT 	| 20000 	| Unlimited 	| Lifetime 	| 40£ 	|  	|  	|  	|
 | **nzbsa.co.za** 	| Closed 	| Free 	| 200 	| 50 	| Undefined 	| Free 	| --- 	| --- 	| EN 	|
-| **omgwtfnzbs.org** 	| Invite 	| User 	| 10 	| 10 	| Lifetime 	| Free 	| own web system? 	| BTC BCH DASH DOGE ETH 	| EN 	|
+| **omg*** 	| Invite 	| User 	| 10 	| 10 	| Lifetime 	| Free 	| own web system? 	| BTC BCH DASH DOGE ETH 	| EN 	|
 |  	|  	| VIP 	| 10000 	| 2000 	| 1 year 	| 10 € 	|  	| LTC XMR ZEC 	|  	|
 | **pourcesoir.in** 	| Open 	| Compte normal 	| 0 	| 0 	| Lifetime 	| Free 	| Own system - Amazon Giftcards 	| BTC 	| FR 	|
 |  	|  	| Compte Ambassadeur 	| 5 	| 0 	| Lifetime 	| Free 	|  	|  	|  	|
@@ -90,29 +90,33 @@ Best kind of indexer. They offer API access, which makes automation with tools l
 |  	|  	| Supporter++ 	| 5000 	| 5000 	| 1y/2y 	| $20/$38 	|  	|  	|  	|
 | **Usenet-Crawler.com** 	| Open 	| Free 	| 50 	| 5 	| Lifetime 	| Free 	| Stripe - CoinPayments 	| BTC ETH 	| EN 	|
 |  	|  	| BFF 	| 10000 	| 1000 	| Lifetime 	| 20€+ 	|  	| LTC XMR 	|  	|
-| **wtfnzb.pw** 	| Invite 	| Free 	| ? 	| 5? 	| ? 	| Free 	| Crypto over E-Mail 	| BTC 	| EN 	|
+| **WtFnZb.pw** 	| Invite 	| Free 	| ? 	| 5? 	| ? 	| Free 	| Crypto over E-Mail 	| BTC 	| EN 	|
 |  	|  	| VIP 	| 10000 	| 1000 	| 1 year 	| 25 € 	|  	|  	|  	|
 
 ## Public Indexers <br>
 They index automatically from Usenet groups. They only have mostly obfuscated headers and the NZBs never come with a password. <br>
-| Indexer 	| Registration 	| Membership 	| API / Day 	| NZB / Day 	| Membership duration 	| Price (2024-04-30) 	| Paymentmethods 	| Accepted cryptocurrencys 	| Primary content 	|
+| Indexer 	| Registration status	| Memberships 	| API/Day 	| NZB/Day 	| Membership duration 	| Price (2024-04-30) 	| Paymentmethods 	| Accepted cryptocurrencys 	| Primary content 	|
 |---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
-| **binsearch.info** 	| No account 	| FREE 	| No API 	| Unlimited 	| No account 	| Free 	| --- 	| --- 	|  	|
-| **BiNZB.com** 	| No account 	| FREE 	| No API 	| Unlimited 	| No account 	| Free 	| --- 	| --- 	|  	|
-| **FindNZB** 	| No account 	| FREE 	| No API but RSS 	| Unlimited 	| No account 	| Free 	| --- 	| --- 	|  	|
+| **binsearch.info** 	| No accounts 	| Free 	| No API 	| Unlimited 	| No account 	| Free 	| --- 	| --- 	|  	|
+| **BiNZB.com** 	| No accounts 	| Free 	| No API 	| Unlimited 	| No account 	| Free 	| --- 	| --- 	|  	|
+| **FindNZB** 	| No accounts 	| Free 	| No API but RSS 	| Unlimited 	| No account 	| Free 	| --- 	| --- 	|  	|
 | **lolo.sickbeard.com**  	| Open  	| Free 	| Unlimited  	| Unlimited 	| Lifetime 	| Free 	| --- (only with it's app) 	| --- 	|  	|
-| **NZBFriends.com** 	| No account 	| FREE 	| No API but RSS 	| Unlimited 	| No account 	| Free 	| --- 	| --- 	|  	|
-| **nzbID.net** 	| No account 	| FREE 	| No API but RSS 	| Unlimited 	| No account 	| Free 	| --- 	| --- 	|  	|
-| **NZBindex.com** 	| Open 	| FREE 	| 1000 (-200k) 	| Unlimted 	| Lifetime 	| Free 	| ? 	| ? 	|  	|
-| **NZBKing.com** 	| No account 	| FREE 	| No API 	| Unlimited 	| No account 	| Free 	| --- 	| --- 	|  	|
+| **NZBFriends.com** 	| No accounts 	| Free 	| No API but RSS 	| Unlimited 	| No account 	| Free 	| --- 	| --- 	|  	|
+| **nzbID.net** 	| No accounts 	| Free 	| No API but RSS 	| Unlimited 	| No account 	| Free 	| --- 	| --- 	|  	|
+| **NZBindex.com** 	| Open 	| Free 	| 1000 (-200k) 	| Unlimted 	| Lifetime 	| Free 	| ? 	| ? 	|  	|
+| **NZBKing.com** 	| No accounts 	| Free 	| No API 	| Unlimited 	| No account 	| Free 	| --- 	| --- 	|  	|
 
 ## Spotweb Indexers <br>
 Great for Dutch and Flemish content, but also a lot of English content. <br>
-| Indexer 	| Registration 	| Membership 	| API / Day 	| NZB / Day 	| Membership duration 	| Price (2024-04-30) 	| Paymentmethods 	| Accepted cryptocurrencys 	| Primary content 	|
+| Indexer 	| Registration status 	| Memberships 	| API/Day 	| NZB/Day 	| Membership duration 	| Price (2024-04-30) 	| Paymentmethods 	| Accepted cryptocurrencys 	| Primary content 	|
 |---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
-| **clubnzb.com** 	| No need 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
+| **clubnzb.com** 	| Open/no need 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
 | **nzbsearchmachine.com** 	| open on weekends 	| Open 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	|  	|
-| **nzbserver.com** 	| No account 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
-| **NZBStars.com** 	| No need 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
-| **nzbscout.com** 	| No account 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
-| **spotnzb.com** 	| No account 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
+| **nzbserver.com** 	| No accounts 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
+| **NZBStars.com** 	| Open/no need 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
+| **nzbscout.com** 	| No accounts 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
+| **spotnzb.com** 	| No accounts 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
+
+*if you know, you know. If you don't, please don't ask.
+
+Thx to Just2it & sbestran
