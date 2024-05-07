@@ -25,7 +25,7 @@ Best kind of indexer. They offer API access, which makes automation with tools l
 |  	|  	| Basic 	| 2000 	| 1000 	| 1 year 	| $10 	|  	| BTC LTC 	|  	|
 |  	|  	| Vip 	| 5000 	| 2500 	| 1 year 	| $20 	|  	| ETH 	|  	|
 |  	|  	| Ultra 	| Unlimited 	| Unlimited 	| 1 year 	| $35 	|  	| USDT 	|  	|
-| **dognzb.cr** 	| Down? 	| Trial 	| 100 	| 10 	| 10 days 	| Trial 	| None (itself) 	| BTC DOGE 	| EN 	|
+| **dognzb.cr** 	| Invite (down often) 	| Trial 	| 100 	| 10 	| 10 days 	| Trial 	| None (itself) 	| BTC DOGE 	| EN 	|
 |  	|  	| Lite 	| 100 	| 10 	| Lifetime 	| Free 	|  	|  	|  	|
 |  	|  	| VIP 	| 3000 	| Unlimited 	| 1/3years 	| $20/$50 	|  	|  	|  	|
 | **DrunkenSlug.com** 	| Invite 	| Water (Free) 	| 25 	| 5 	| Lifetime 	| Free 	| PayPal - BTCPAY (self hosted)  - UK Amazon Giftcards 	| BTC 	| EN 	|
