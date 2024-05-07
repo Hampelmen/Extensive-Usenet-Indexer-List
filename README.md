@@ -54,7 +54,7 @@ Best kind of indexer. They offer API access, which makes automation with tools l
 | **nzbcore.info** 	| Invite 	| Free User 	| 50 	| 10 	| Lifetime 	| Free 	| NOWPayments 	| BTC LTC 	| DE 	|
 |  	|  	| 6 month Member 	| 5000 	| 500 	| 6 month 	| 20 € 	|  	|  	|  	|
 |  	|  	| 1 year Member 	| 10000 	| 1000 	| 1 year 	| 40 € 	|  	|  	|  	|
-| **NZBs*** 	| Invite 	| User 	| 48 	| 5 	| Lifetime (until 30 day no login) 	| Free 	| CoinPayments 	| BTC 	| EN 	|
+| **in*** 	| Invite 	| User 	| 48 	| 5 	| Lifetime (until 30 day no login) 	| Free 	| CoinPayments 	| BTC 	| EN 	|
 |  	|  	| Friend 	| 1000 	| 1000 	| Lifetime 	| $10 	|  	|  	|  	|
 | **NZB.su** 	| Open 	| Free 	| 0 	| 0 	|  	| Free 	| Stripe - Plisio 	| LTC DOGE 	| EN 	|
 |  	|  	| VIP 	| 5000 	| 600 	| 1/2/3 years 	| $16/$31/$42 	|  	| BTC ETH 	|  	|
@@ -72,7 +72,7 @@ Best kind of indexer. They offer API access, which makes automation with tools l
 |  	|  	| Platinum 	| 20000 	| Unlimited 	| 1 year 	| 15£ 	|  	| DOGE 	|  	|
 |  	|  	| LULT 	| 20000 	| Unlimited 	| Lifetime 	| 40£ 	|  	|  	|  	|
 | **nzbsa.co.za** 	| Closed 	| Free 	| 200 	| 50 	| Undefined 	| Free 	| --- 	| --- 	| EN 	|
-| **omg*** 	| Invite 	| User 	| 10 	| 10 	| Lifetime 	| Free 	| own web system? 	| BTC BCH DASH DOGE ETH 	| EN 	|
+| **om*** 	| Invite 	| User 	| 10 	| 10 	| Lifetime 	| Free 	| own web system? 	| BTC BCH DASH DOGE ETH 	| EN 	|
 |  	|  	| VIP 	| 10000 	| 2000 	| 1 year 	| 10 € 	|  	| LTC XMR ZEC 	|  	|
 | **pourcesoir.in** 	| Open 	| Compte normal 	| 0 	| 0 	| Lifetime 	| Free 	| Own system - Amazon Giftcards 	| BTC 	| FR 	|
 |  	|  	| Compte Ambassadeur 	| 5 	| 0 	| Lifetime 	| Free 	|  	|  	|  	|
@@ -110,7 +110,7 @@ Great for Dutch and Flemish content, but also a lot of English content. <br>
 | Indexer 	| Registration status 	| Memberships 	| API/Day 	| NZB/Day 	| Membership duration 	| Price (2024-04-30) 	| Paymentmethods 	| Accepted cryptocurrencys 	| Primary content 	|
 |---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
 | **clubnzb.com** 	| Open/no need 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
-| **nzbsearchmachine.com** 	| open on weekends 	| Open 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	|  	|
+| **nzbsearchmachine.com** 	| open on weekends 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
 | **nzbserver.com** 	| No accounts 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
 | **NZBStars.com** 	| Open/no need 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
 | **nzbscout.com** 	| No accounts 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
