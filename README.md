@@ -78,9 +78,9 @@ Best kind of indexer. They offer API access, which makes automation with tools l
 |  	|  	| Compte Ambassadeur 	| 5 	| 0 	| Lifetime 	| Free 	|  	|  	|  	|
 |  	|  	| Compte VIP 	| 2000 	|  	| 1 year 	| 20 € 	|  	|  	|  	|
 |  	|  	| Forfait Usenet illimité 	| 4000 	|  	| 1year 	| 50 € 	|  	|  	|  	|
-| **SceneNZBs.com** 	| Open 	| User (Free) 	| 0 	| 10 	| Lifetime (no p2p & xxx) 	| Free 	| Kreditkarte - Giropay - eps Überweisung - SOFORT - 	| XMR BCH 	| DE 	|
-|  	|  	| VIP 	| 2000 	| 400 	| 1 year (no p2p & xxx) 	| 15 € 	| Bancontact - iDEAL - Przelewy24 - NOWPayments 	| ZEC etc 	|  	|
-|  	|  	| Premium VIP 	| 10000 	| 2000 	| 1 year 	| 20 € 	|  	| LTC BTC 	|  	|
+| **SceneNZBs.com** 	| Open 	| User (Free) 	| 0 	| 10 	| Lifetime (no p2p & xxx) 	| Free 	| Stripe - NOWPayments	| BTC DASH ETH LTC XMR etc | DE |
+|  	|  	| VIP 	| 2000 	| 400 	| 1 year (no p2p & xxx) 	| 15 € 	|  	|   |  	|
+|  	|  	| Premium VIP 	| 10000 	| 2000 	| 1 year 	| 20 € 	|  	|  	|  	|
 | **SquareEyed.org** 	| Open 	| SD User 	| 10 	| 10 	| Lifetime 	| Free 	| Plisio 	| BTC XMR BCH LTC 	| EN 	|
 |  	|  	| HD Vip 	| 2000 	| 2000 	| 1 year 	| $12 	|  	|  	|  	|
 |  	|  	| UHD Vip 	| 5000 	| 5000 	| 1 year 	| $20 	|  	|  	|  	|
