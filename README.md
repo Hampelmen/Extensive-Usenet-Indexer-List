@@ -35,7 +35,7 @@ Best kind of indexer. They offer API access, which makes automation with tools l
 |  	|  	| VIP 	|  	| Unlimited 	| 1 year 	| $17 	|  	|  	|  	|
 |  	|  	| VIP Supporter 	|  	| Unlimited 	|  	| $25 	|  	|  	|  	|
 | **headphones.codeshy.com** 	| Open 	| ? 	| ? 	| ? 	| ? 	| $3.78 / month 	| PayPal 	|  	| Music 	|
-| **Miatrix .com** 	| Open 	| Trial 	| 2 	| 2 	| Undefined 	| Trial 	| PayPal 	| None 	| EN 	|
+| **Miatrix.com** 	| Open 	| Trial 	| 100 	| 2 	| 14 days 	| Trial 	| PayPal 	| None 	| EN 	|
 |  	|  	| Member 	| 400 	| 100 	| 1 year 	| $10 	|  	|  	|  	|
 |  	|  	| Vip 	| 1000 	| 250 	| 1 year 	| $20 	|  	|  	|  	|
 |  	|  	| Lifetime 	| 2000 	| 500 	| Lifetime 	| $50 	|  	|  	|  	|
