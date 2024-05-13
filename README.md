@@ -54,7 +54,7 @@ Best kind of indexer. They offer API access, which makes automation with tools l
 | **nzbcore.info** 	| Invite 	| Free User 	| 50 	| 10 	| Lifetime 	| Free 	| NOWPayments 	| BTC LTC 	| DE 	|
 |  	|  	| 6 month Member 	| 5000 	| 500 	| 6 month 	| 20 € 	|  	|  	|  	|
 |  	|  	| 1 year Member 	| 10000 	| 1000 	| 1 year 	| 40 € 	|  	|  	|  	|
-| **in*** 	| Invite 	| User 	| 48 	| 5 	| Lifetime (until 30 day no login) 	| Free 	| CoinPayments 	| BTC 	| EN 	|
+| **in*** 	| Invite 	| User 	| 48 	| 5 	| Lifetime (until 30 day no login) 	| Free 	| PayPal - Mycelium Gear - CoinPayments | BTC LTC XMR ETH	| EN 	|
 |  	|  	| Friend 	| 1000 	| 1000 	| Lifetime 	| $10 	|  	|  	|  	|
 | **NZB.su** 	| Open 	| Free 	| 0 	| 0 	|  	| Free 	| Stripe - Plisio 	| LTC DOGE 	| EN 	|
 |  	|  	| VIP 	| 5000 	| 600 	| 1/2/3 years 	| $16/$31/$42 	|  	| BTC ETH 	|  	|
