@@ -112,10 +112,9 @@ Great for Dutch and Flemish content, but also a lot of English content. <br>
 |---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
 | **clubnzb.com** 	| Open/no need 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
 | **nzbsearchmachine.com** 	| open on weekends 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
-| **nzbserver.com** 	| No accounts 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
+| **nzbserver.com** 	| No accounts 	| Free 	| can't be added to ARRs	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
 | **NZBStars.com** 	| Open/no need 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
-| **nzbscout.com** 	| No accounts 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
-| **spotnzb.com** 	| No accounts 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
+| **spotnzb.com** 	| No accounts 	| Free 	| no API	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
 
 *if you know, you know. If you don't, please don't ask.
 
