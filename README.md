@@ -44,8 +44,8 @@ Best kind of indexer. They offer API access, which makes automation with tools l
 |  	|  	| Friend 	| 50 	| 5 	| Lifetime 	| Free 	|  	|  	|  	|
 |  	|  	| VIP 	| 2000 	| 300 	| 1 year 	| 10 € 	|  	|  	|  	|
 | **NinjaCentral.co.za** 	| Invite 	| Trial 	| 30 	| 10 	| 14 days 	| Trial 	| Crypto over Discord 	| BTC ETH 	| EN 	|
-|  	|  	| DAN 0 	| 2000 	| 3500 	| 1 year 	| 15 € 	|  	|  	|  	|
-|  	|  	| PurpleX 	| 3000 	| 900 	| 1 year 	| 25 € 	|  	|  	|  	|
+|  	|  	| DAN 0 	| 2000 	| 450 	| 1 year 	| 15 € 	|  	|  	|  	|
+|  	|  	| PurpleX 	| 3000 	| 1000 	| 1 year 	| 25 € 	|  	|  	|  	|
 |  	|  	| UNLIMITED 	| 20000 	| 10000 	| Lifetime (+Plex share) 	| 150 € 	|  	|  	|  	|
 | **nzb.cat** 	| Invite 	| Free 	| 100 	| 5 	| Lifetime (no xpcls) 	| Free 	| Blockonomics 	| BTC BCH 	| EN 	|
 |  	|  	| Contributor 	| 1000 	| 1000 	| 1 year (tv/mov) 	| $20 	|  	|  	|  	|
