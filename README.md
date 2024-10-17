@@ -80,8 +80,8 @@ Best kind of indexer. They offer API access, which makes automation with tools l
 |  	|  	| Compte Ambassadeur 	| 5 	| ? 	| Lifetime 	| Free 	|  	|  	|  	|
 |  	|  	| Compte VIP 	| 2000 	| ? 	| 1 year 	| 20 € 	|  	|  	|  	|
 |  	|  	| Forfait Usenet illimité 	| 4000 	|  	| 1year 	| 50 € 	|  	|  	|  	|
-| **SceneNZBs.com** 	| Open 	| User (Free) 	| 0 	| 5	| Lifetime (no p2p & xxx) 	| Free 	| Stripe - NOWPayments	| BTC DASH ETH LTC XMR etc | DE |
-|  	|  	| VIP 	| 2000 	| 400 	| 1 year 	| 15 € 	|  	|   |  	|
+| **SceneNZBs.com** 	| Open 	| User (Free, no xxx) 	| 0 	| 5	| Lifetime  	| Free 	| Stripe - NOWPayments	| BTC DASH ETH LTC XMR etc | DE |
+|  	|  	| VIP (no xxx)	| 2000 	| 400 	| 1 year 	| 15 € 	|  	|   |  	|
 |  	|  	| Premium VIP 	| 10000 	| 2000 	| 1 year 	| 20 € 	|  	|  	|  	|
 | **SquareEyed.org** 	| Open 	| SD User 	| 10 	| 10 	| Lifetime 	| Free 	| Plisio 	| BTC XMR BCH LTC 	| EN 	|
 |  	|  	| HD Vip 	| 2000 	| 500 	| 1 year 	| $12 	|  	|  	|  	|
@@ -116,6 +116,9 @@ Great for Dutch and Flemish content, but also a lot of English content. <br>
 | **nzbserver.com** 	| No accounts 	| Free 	| can't be added to ARRs	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
 | **NZBStars.com** 	| Open/no need 	| Free 	| Unlimited 	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
 | **spotnzb.com** 	| No accounts 	| Free 	| no API	| Unlimited 	| Lifetime 	| Free 	| --- 	| --- 	|  	|
+(Managed Indexers with Spotweb)
+|**NZBFinder.ws** (only Elite VIPs, $45/y) | see above | see above | see above	| see above | see above | see above | see above	| see above | see above |
+|**SceneNZBs.com** 	(included) | see above | see above | see above	| see above | see above | see above | see above	| see above | see above |
 
 *if you know, you know. If you don't, please don't ask.
 
