@@ -1,4 +1,4 @@
-<span style="color:red">!!!!! Discontinued since 18.10.2024 !!!!!</span>
+🚨 **!!!!! Discontinued since 18.10.2024 !!!!!** 🚨
 
 
 # Extensive-Usenet-Indexer-Table
