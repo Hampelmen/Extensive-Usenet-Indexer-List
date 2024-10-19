@@ -1,5 +1,5 @@
-🚨 **!!!!! Discontinued since 18.10.2024 !!!!!** 🚨
-
+# 🚨 **!!!!! Discontinued since 18.10.2024 !!!!!** 🚨
+You can visit https://hampelmen.github.io/nzb-sources/ or [the project directly](https://github.com/Hampelmen/nzb-sources).
 
 # Extensive-Usenet-Indexer-Table
 Extensive Usenet Indexer Table with registration status, membership types, API hits, download hits, membership duration, membership prices and payment methods. <br><br>
