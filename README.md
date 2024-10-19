@@ -1,3 +1,6 @@
+<span style="color:red">!!!!! Discontinued since 18.10.2024 !!!!!</span>
+
+
 # Extensive-Usenet-Indexer-Table
 Extensive Usenet Indexer Table with registration status, membership types, API hits, download hits, membership duration, membership prices and payment methods. <br><br>
 (The tables may not be fully visible because of the amount of columns.<br>
